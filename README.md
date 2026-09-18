@@ -1,15 +1,15 @@
 <h1 align="center">Hi there, I'm Aman Pandey 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=MERN+Stack+Developer+in+Progress;Frontend+Developer;Diploma+CSE+Student;Learning+%26+Building+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+in+Progress;Frontend+Developer;Diploma+CSE+Student;Building+%26+Learning+Every+Day" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Amanpandey87">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Amanpandey87-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/amanpandeyiiiii">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@amanpandeyiiiii-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -17,30 +17,42 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Diploma Computer Science & Engineering Student
-* 💻 Currently learning **MERN Stack Development**
-* 🌱 Learning **JavaScript, React.js, Node.js, Express.js & MongoDB**
-* 🚀 Interested in **Web Development & Software Engineering**
-* 🛠️ Building practical projects to improve my development skills
-* 📚 Continuously learning and improving my programming fundamentals
-* 🎯 Goal: Become a **Full Stack Software Engineer**
+I'm **Aman Pandey**, a **Diploma Computer Science & Engineering student** and an aspiring **MERN Stack Developer**.
+
+I have a foundation in **HTML and CSS** and I'm currently expanding my skills in **JavaScript, React.js, Node.js, Express.js, and MongoDB**.
+
+I enjoy learning by building practical projects and exploring modern web development technologies.
+
+* 🎓 Diploma CSE Student
+* 💻 Aspiring MERN Stack Developer
+* 🌱 Currently learning Full Stack Web Development
+* 🚀 Interested in Web Development & Software Engineering
+* 🧩 Learning by building real-world projects
+* 🎯 Goal: Become a Full Stack Software Engineer
 
 ---
 
-## 🧑‍💻 What I'm Currently Learning
+## 🚀 What I'm Currently Learning
 
-```text
-HTML & CSS        ████████████████████ 100%
-JavaScript        ███████████████░░░░░  75%
-React.js          ██████████░░░░░░░░░░  50%
-Node.js           ███████░░░░░░░░░░░░░  35%
-Express.js        ███████░░░░░░░░░░░░░  35%
-MongoDB           ██████░░░░░░░░░░░░░░  30%
-```
+<p align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<img src="https://img.shields.io/badge/React.js-Learning-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<img src="https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Express.js-Learning-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MongoDB-Learning-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
+
+### 🌐 Frontend
 
 <p align="left">
 
@@ -52,25 +64,29 @@ MongoDB           ██████░░░░░░░░░░░░░░  
 
 <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+</p>
+
+### 🗄️ Database
+
+<p align="left">
 
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
 </p>
 
----
-
-## 💻 Programming Languages
+### 💻 Programming
 
 <p align="left">
 
@@ -84,65 +100,88 @@ MongoDB           ██████░░░░░░░░░░░░░░  
 
 </p>
 
+### 🔧 Tools
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</p>
+
 ---
 
-## 🚀 Projects
+## 📂 Featured Projects
 
 ### 🎓 Student Management System
 
-Student management application built while learning programming, CRUD operations and database concepts.
+A student management application created to practice **CRUD operations, database handling, and application development**.
 
-**Tech:** Python • SQLite
+**Tech:** `Python` `SQLite`
+
+---
 
 ### 🌦️ Weather Forecast App
 
-A weather application that uses a weather API to display real-time weather information.
+A weather application that fetches weather information using an external API and displays useful weather data.
 
-**Tech:** HTML • CSS • JavaScript • API
+**Tech:** `HTML` `CSS` `JavaScript` `API`
+
+---
 
 ### 🌐 MERN Stack Projects
 
-Currently building full-stack web applications while learning the MERN stack.
+Currently building and experimenting with full-stack web applications while learning the MERN stack.
 
-**Tech:** MongoDB • Express.js • React.js • Node.js
+**Tech:** `MongoDB` `Express.js` `React.js` `Node.js`
 
-> 🚀 More projects coming soon...
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amanpandey87&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+> 🚀 More projects will be added as I build and learn.
 
 ---
 
-## 🔥 GitHub Streak
+## 🧠 Learning Journey
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Amanpandey87&theme=tokyonight&hide_border=true" />
-</p>
+```text
+HTML / CSS
+     ↓
+JavaScript
+     ↓
+React.js
+     ↓
+Node.js + Express.js
+     ↓
+MongoDB
+     ↓
+MERN Stack
+     ↓
+Full Stack Web Development 🚀
+```
 
 ---
 
-## 📈 Top Languages
+## 🎯 2026 Goals
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanpandey87&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+* 📚 Master JavaScript fundamentals
+* ⚛️ Become comfortable with React.js
+* 🟢 Learn Node.js & Express.js
+* 🍃 Learn MongoDB
+* 🚀 Build multiple MERN projects
+* 💻 Improve problem-solving skills
+* 🔧 Become confident with Git & GitHub
+* 💼 Prepare for a career in Full Stack Development
 
 ---
 
-## 🎯 My Goals
+## 🌟 Beyond Coding
 
-* ✅ Build strong HTML & CSS fundamentals
-* 🔄 Master JavaScript
-* 🔄 Learn React.js
-* 🔄 Learn Node.js & Express.js
-* 🔄 Learn MongoDB
-* 🚀 Build real-world MERN projects
-* 💼 Become a Full Stack Software Engineer
+When I'm not coding, I enjoy exploring technology, working on creative ideas, and continuously learning new things.
+
+I believe in:
+
+> **Learn → Build → Fail → Improve → Repeat 🚀**
 
 ---
 
@@ -151,11 +190,11 @@ Currently building full-stack web applications while learning the MERN stack.
 <p align="center">
 
 <a href="https://github.com/Amanpandey87">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Amanpandey87-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/amanpandeyiiiii">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-@amanpandeyiiiii-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </p>
@@ -163,7 +202,7 @@ Currently building full-stack web applications while learning the MERN stack.
 ---
 
 <p align="center">
-  <b>💙 Learning • Building • Improving 🚀</b>
+  <b>💻 Code • Learn • Build • Grow 🚀</b>
 </p>
 
 <p align="center">
